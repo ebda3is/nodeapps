@@ -1,6 +1,0 @@
-test code
-<<<<<<< HEAD
-var x1;
-=======
-var Hello;
->>>>>>> 0bfe0abf8383ef702f84e22a9d4a3288badfe341
